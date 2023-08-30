@@ -2,9 +2,9 @@ const Tree = {
 
       id: 'root',
     
-      name: 'Root',
+      name: 'Console',
     
-      items: ['item1', 'item2'],
+      items: ['Playstation 5', 'Xbox One'],
     
       subcategories: [
     
